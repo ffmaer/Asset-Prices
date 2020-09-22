@@ -1,0 +1,13 @@
+format compact;
+disp('cumulant generating function');
+syms p s d;
+hs=1-p+p*exp(s*d);
+ks=log(hs);
+for x=1:4
+    k=diff(ks,s,x);
+    subs(k,s,0)
+end
+
+k2=diff(ks,s,2);
+k3=diff(ks,s,3);
+k4=diff(ks,s,4);
