@@ -1,6 +1,6 @@
 # Spring 2012 Macroeconomic Foundations for Asset Prices [ECON-UB 233](https://web.archive.org/web/20200923102608/https://sites.google.com/site/nyusternmacrofoundations/home) with David Backus @ NYU
 
-In memory of David Backus (1953-2016) http://www.david-backus.com/photographs
+In memory of [David Backus](https://web.archive.org/web/20201004024305/https://www.david-backus.com/photographs) (1953-2016)
 
 [Businesses hire people who have skills that help them, and a GPA is not a skill. - David Backus](https://web.archive.org/web/20200923102701/http://pages.stern.nyu.edu/~dbackus/undergrad_advice.htm)
 
